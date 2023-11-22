@@ -59,10 +59,10 @@
       "height":"31px"
     },
     "theme": {
-      "bodyBackground": "#0db2e0",
-      "headerBackground": "#0db2e0",
-      "menuBackground": "#0db2e0",
-      "activeLayer": "#33b560",
+      "bodyBackground": "#007aa5",
+      "headerBackground": "#007aa5",
+      "menuBackground": "#007aa5",
+      "activeLayer": "#c44511",
       "textMenu":"white",
       "textMenuStyle":"",
       "textLegendMenu":"#fafafa",
@@ -82,7 +82,7 @@
       "link": "https://github.com/ign-argentina/argenmap"
     },
     "logoText": {
-      "content": "Lorem Ipsum",
+      "content": "SIG AOSC-Ente Regulador",
       "title":"Lorem Ipsum",
       "link": "#"
     },

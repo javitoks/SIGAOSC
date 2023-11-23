@@ -1,6 +1,6 @@
 {
     "table": {
-      "isActive": false,
+      "isActive": true,
       "rowsLimit": 5
     },
     "charts": {
@@ -18,11 +18,11 @@
     "excluded_plugins": ["minimap"],
     "mapConfig": {
       "center": {
-        "latitude": -40,
-        "longitude": -59
+        "latitude": -27.4634,
+        "longitude": -58.8243
       },
       "zoom": {
-        "initial": 4,
+        "initial": 14,
         "min": 3,
         "max": 21
       }

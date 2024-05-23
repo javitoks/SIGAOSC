@@ -122,7 +122,7 @@
         "seccion": "geoservicios_ctes",
         "servicio": "wms",
         "version": "1.0.0",
-        "host": "https://geoportal.corrientes.gob.ar/geoserver/wms"
+        "host": "https://wms.qgiscloud.com/javitoks/Proyecto_Loreto_QGISCloud/"
       },
 
       {
